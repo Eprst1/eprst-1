@@ -5,7 +5,7 @@ using UnityEngine;
 public class FollowTransform : MonoBehaviour
 {
     public Transform transformObject;
-    public inc axis;
+    public int axis;
     // Start is called before the first frame update
     void Start()
     {
